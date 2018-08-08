@@ -1,0 +1,6 @@
+D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp2_9\bin\Debug\MultiThreadsApplication.ConsoleApp2_9.exe.config
+D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp2_9\bin\Debug\MultiThreadsApplication.ConsoleApp2_9.exe
+D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp2_9\bin\Debug\MultiThreadsApplication.ConsoleApp2_9.pdb
+D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp2_9\obj\Debug\MultiThreadsApplication.ConsoleApp2_9.csproj.CoreCompileInputs.cache
+D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp2_9\obj\Debug\MultiThreadsApplication.ConsoleApp2_9.exe
+D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp2_9\obj\Debug\MultiThreadsApplication.ConsoleApp2_9.pdb
