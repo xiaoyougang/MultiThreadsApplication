@@ -1,0 +1,7 @@
+!.gitignore
+
+# Generated files
+*/bin/
+*/obj/
+.vs/
+

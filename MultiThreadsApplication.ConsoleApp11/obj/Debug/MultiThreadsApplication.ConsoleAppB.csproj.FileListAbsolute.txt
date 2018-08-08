@@ -1,7 +1,0 @@
-D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp11\bin\Debug\MultiThreadsApplication.ConsoleApp11.exe.config
-D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp11\bin\Debug\MultiThreadsApplication.ConsoleApp11.exe
-D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp11\bin\Debug\MultiThreadsApplication.ConsoleApp11.pdb
-D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp11\obj\Debug\MultiThreadsApplication.ConsoleAppB.csprojAssemblyReference.cache
-D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp11\obj\Debug\MultiThreadsApplication.ConsoleAppB.csproj.CoreCompileInputs.cache
-D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp11\obj\Debug\MultiThreadsApplication.ConsoleApp11.exe
-D:\VsProjects\MultiThreadsApplication\MultiThreadsApplication.ConsoleApp11\obj\Debug\MultiThreadsApplication.ConsoleApp11.pdb
